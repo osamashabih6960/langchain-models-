@@ -1,10 +1,6 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="docs/static/img/logo-dark.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="docs/static/img/logo-light.svg">
-    <img alt="LangChain Logo" src="docs/static/img/logo-dark.svg" width="80%">
-  </picture>
-</p>
+<!--🖼️OCTOCAT-->
+</p><p align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE4V9lZClIZXN_XSOjA8_SSnCqpAPKSCza7g&s" width="700px" height="700px">
 
 <p align="center">
     The platform for reliable agents.
@@ -37,7 +33,6 @@ LangChain is a framework for building LLM-powered applications. It helps you cha
 pip install -U langchain
 ```
 
----
 
 **Documentation**: To learn more about LangChain, check out [the docs](https://python.langchain.com/docs/introduction/).
 
